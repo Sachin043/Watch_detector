@@ -1,0 +1,1 @@
+It’s an OpenCV project which is used to detect any wrist watch because I trained it by creating my own harcascade for detecting wrist watch. It is a step towards object detection without using existing libraries.
